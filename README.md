@@ -14,8 +14,9 @@ To 3d-print this model it takes about 5 hours with Standard Quality 0.2mm, 60% i
 <a href="images/Gotek_internal_A500_mount_pic2.jpg">
 <img src="images/Gotek_internal_A500_mount_pic2.jpg" width="221" height="194">
 </a>
-<a href="images/Gotek_internal_A500_mount_pic2.jpg">
-<img src="images/Gotek_internal_A500_mount_pic2.jpg" width="504" height="378">
+<br />
+<a href="images/Gotek_internal_A500_mount_pic3.jpg">
+<img src="images/Gotek_internal_A500_mount_pic3.jpg" width="504" height="378">
 </a>
 
 ***
