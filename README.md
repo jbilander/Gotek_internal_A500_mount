@@ -108,4 +108,4 @@ Nice, and now in a REV A Case:
 <img src="images/Gotek_internal_A500_mount_pic22.jpg" width="202" height="151">
 </a>
 
-Sweet!, and no problem closing either of the cases. Mission accomplished!
+Sweet!, A snug fit there as well, and no problem closing either of the cases. Mission accomplished!
