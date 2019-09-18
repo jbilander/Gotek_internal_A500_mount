@@ -1,7 +1,7 @@
 # Gotek_internal_A500_mount
 An internal Gotek mounting bracket for the Amiga 500 designed in DesignSpark Mechanical 4.0
 
-I was not happy with the internal mount I got when buying a Gotek floppy emulator for the Amiga 500. I did a respin to better position the usb socket and the display and to fit both the revision A and B of the A500/500+ Cases. This is the result. You don't have to modify your case in any way for the Gotek to fit with this mount, and the standard 34-pin floppy cable can be used as it just about reaches the Gotek. It sits a few mm back compared to the other mount.
+I was not happy with the internal mount I got when buying a Gotek floppy emulator for the Amiga 500. I did a respin to better position the usb socket and the oled display, and to fit both the revision A and B of the A500/500+ Cases. This is the result. You don't have to modify your case in any way for the Gotek to fit with this mount, and the standard 34-pin floppy cable can be used as it just about reaches the Gotek. It sits a few mm back compared to the other mount.
 
 <a href="images/Gotek_internal_A500_mount_pic1.jpg">
 <img src="images/Gotek_internal_A500_mount_pic1.jpg" width="400" height="360">
